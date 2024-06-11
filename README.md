@@ -1,22 +1,8 @@
-## Hi there 👋
+Boas vindas ao meu perfil ❤ 
 
-!![image](https://github.com/henriqued28/henriqued28/assets/170728783/25df1d16-2f97-4e9d-9df1-0e3cba55cdef)
-[](link)
-**limão**
-> Escrito por Alura Start
-
-
-<!--
-**henriqued28/henriqued28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-meu nome é Henrique   
+-estou estudando na alura    
+-estou me desenvolvendo na linguagem javaescript
+-utilizo esse espaço para minha organização e compartilhamentodos meus projetos desenvolvidos        
+-voce entrar em contato comigo      
+-00001132799533sp@al.educacao.sp.gov.br
